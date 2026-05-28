@@ -13,8 +13,8 @@ https://zynkart.netlify.app/
 
 ## 👨‍💻 About Project
 
-This project is a frontend e-commerce application designed to simulate a real online shopping platform.
-It includes product listing, cart functionality, dynamic routing, state management, and a responsive user interface.
+ZynKart is a modern and responsive e-commerce web application built using React.js and Tailwind CSS.
+The project includes user authentication with Clerk, location fetching functionality, dynamic routing, cart management using Context API, and a clean responsive UI to provide a real-world shopping experience.
 
 ---
 
@@ -31,8 +31,8 @@ This project was created for self-improvement and to gain practical experience i
 * React Router DOM
 * Context API
 * JavaScript
-* HTML5
-* CSS3
+* Clerk Authentication
+* Geolocation API
 
 ---
 
